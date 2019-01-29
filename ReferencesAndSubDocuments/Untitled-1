@@ -1,0 +1,19 @@
+// Three ways to implement relationship between documents
+
+// 1. Using references
+// Course has an author
+// Course
+{
+    _id: 
+    name: String,
+    author: // Refer the object id of author
+}
+
+// author
+{
+    _id: 
+    name: String
+    email: String
+    //many properties
+
+}

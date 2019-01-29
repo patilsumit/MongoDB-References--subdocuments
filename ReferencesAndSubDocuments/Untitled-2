@@ -1,0 +1,20 @@
+// 2. Embedding a sub document
+
+// Course containing author
+{
+    name: String
+    author: authorSchema
+}
+
+// Course containing author
+{
+    name: String
+    author: authorSchema
+}
+
+
+// Course containing author
+{
+    name: String
+    author: authorSchema
+}
